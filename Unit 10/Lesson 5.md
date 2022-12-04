@@ -11,7 +11,7 @@ $$
 $$
 
 - `Discriminant`: $2^2 - 4(2 \times -5) = 64 > 0$; two roots
-- `Quadratic Formula`:$\frac{-2\pm\sqrt{64}}{2(3)}$
+- `Quadratic Formula`: $\frac{-2\pm\sqrt{64}}{2(3)}$
 	- $\frac{-2\pm8}{6}$
 		- $\frac{6}{6} = 1$
 		- $\frac{-10}{6} = -\frac{5}{3}$
