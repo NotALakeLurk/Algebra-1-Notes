@@ -10,7 +10,7 @@
 4. `Substitute` the value into an equation to find other variables
 
 ## Example:
-$$2y=-x-12$$
+$$2y=-x-12$$<br>
 $$x-y=5$$
 
 1. $x+2y=-12$<br>$x-y=5$
