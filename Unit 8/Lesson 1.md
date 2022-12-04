@@ -13,23 +13,23 @@
 
 # Examples
 ## Monomial
-$ 2x^3 $
+$2x^3$
 - `Degree`: $3$
 
 ## Polynomial
-- `Standard Form`: a `polynomial` in `standard form` can be described as $ a_1x^n+a_2x^{n-1}+...+a_{n}x^{1}+a_{n+1}x^{0} $ where $a$ is a set of numbers with length $n+1$, and $n$ is a number
-- $ 17x^2+4 $
+- `Standard Form`: a `polynomial` in `standard form` can be described as $a_1x^n+a_2x^{n-1}+...+a_{n}x^{1}+a_{n+1}x^{0}$ where $a$ is a set of numbers with length $n+1$, and $n$ is a number
+- $17x^2+4 $
 	- `Degree`: $2$
-	- `Leading Coefficient`: 17
+	- `Leading Coefficient`: $17$
 
 ### Term Specific Types
 Where $m$ is a set of `monomials`
-- `Monomial`: $ m_1 $
-- `Binomial`: $ m_1 + m_2 $
-- `Trinomial`: $ m_1 + m_2 + m_3 $
+- `Monomial`: $m_1$
+- `Binomial`: $m_1 + m_2$
+- `Trinomial`: $m_1 + m_2 + m_3$
 
 ### Degree Specific Types
 Where the `polynomial` is in `standard form` 
-- `Linear Polynomial`: $ ax...$
-- `Quadratic Polynomial`: $ a^2...$
-- `Cubic Polynomial`: $ ax^3...$
+- `Linear Polynomial`: $ax...$
+- `Quadratic Polynomial`: $a^2...$
+- `Cubic Polynomial`: $ax^3...$

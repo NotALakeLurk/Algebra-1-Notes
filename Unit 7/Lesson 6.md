@@ -8,7 +8,7 @@
 
 # Equations
 Where $t$ is time, $r$ is the rate per unit of $t$, and $a$ is the starting value or principal
-- `Exponential Growth`: $ y=a(1+r)^t $
-	- `Compound Interest`: $ y=a(1+\frac{r}{n})^{nt} $, where $n$ is the amount of compounds per unit of $t$
-- `Exponential Decay`: $ y=a(1-r)^t $
-	- `Radioactive Decay`: $ y=a(0.5)^{\frac{t}{h}} $, where $h$ is the radioactive `half-life` in units of $t$
+- `Exponential Growth`: $y=a(1+r)^t$
+	- `Compound Interest`: $y=a(1+\frac{r}{n})^{nt}$, where $n$ is the amount of compounds per unit of $t$
+- `Exponential Decay`: $y=a(1-r)^t$
+	- `Radioactive Decay`: $y=a(0.5)^{\frac{t}{h}}$, where $h$ is the radioactive `half-life` in units of $t$

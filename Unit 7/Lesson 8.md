@@ -9,6 +9,6 @@
 
 # Formulae
 Where $a$ is a `geometric sequence`, $r$ is $a$'s `common ratio`, and $n$ is an index of $a$
-- `Recursive Formula`: $ a_n = a_{n-1}r $
-- `Function Formula`: $ a_n = a_1r^{n-1} $
-- `Series Formula`: $ s = a_1\frac{1-r^n}{1-r} $ where $s$ is the sum
+- `Recursive Formula`: $a_n = a_{n-1}r$
+- `Function Formula`: $a_n = a_1r^{n-1}$
+- `Series Formula`: $s = a_1\frac{1-r^n}{1-r}$ where $s$ is the sum

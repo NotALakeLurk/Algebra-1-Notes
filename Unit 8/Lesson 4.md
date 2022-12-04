@@ -11,7 +11,7 @@
 1. Fill in missing terms with $0$
 2. Divide the highest powers, write the quotient into answer
 3. Multiply the next term of the divisor by the quotient and use to subtract from dividend as normal
-4. Repeat steps $2$-$3$ until the result of step $3$ becomes the remainder
+4. Repeat steps $2$ - $3$ until the result of step $3$ becomes the remainder
 
 ## Example
 
@@ -34,8 +34,8 @@ $$
 		<td>+2
 	</table>
 2. 
-	- $ \frac{y^3}{y}=y^2 $
-	- $ 3 \times y^2 = 3y^2$
+	- $\frac{y^3}{y}=y^2$
+	- $3 \times y^2 = 3y^2$
 	- <table>
 		<thead>
 			<td>
@@ -207,7 +207,7 @@ $$
 			<td>74
 			<td>R
 		</table>
-	- $ \frac{y^3+11y^2+2}{y+3} = y^2+8y-24+\frac{74}{y+3}$
+	- $\frac{y^3+11y^2+2}{y+3} = y^2+8y-24+\frac{74}{y+3}$
 
 # Synthetic Division
 1. Write the coefficients of the dividend in standard form, filling in missing powers with $0$; change the sign of $h$ and place it to the left
@@ -385,5 +385,5 @@ $$
 			<td>+43
 			<td>R 270
 		</table>
-6. $ \frac{x^4+x^3+x^2+x}{x} = x^3+x^2+x $
-7. $ x^3+x^2+6x+43+\frac{270}{x-6} $
+6. $\frac{x^4+x^3+x^2+x}{x} = x^3+x^2+x$
+7. $x^3+x^2+6x+43+\frac{270}{x-6}$
