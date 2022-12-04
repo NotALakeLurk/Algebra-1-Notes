@@ -1,3 +1,4 @@
+NOTE - The tables make *slightly* more sense with default style
 # Vocab
 - `Long Division`: a method of dividing polynomials by hand
 - `Synthetic Division`: a quicker method of dividing polynomials by hand; applicable when, a polynomial is being divided by a binomial in the form of $x-h$
