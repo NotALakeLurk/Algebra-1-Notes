@@ -18,7 +18,7 @@ $2x^3$
 
 ## Polynomial
 - `Standard Form`: a `polynomial` in `standard form` can be described as $a_1x^n+a_2x^{n-1}+...+a_{n}x^{1}+a_{n+1}x^{0}$ where $a$ is a set of numbers with length $n+1$, and $n$ is a number
-- $17x^2+4 $
+- $17x^2+4$
 	- `Degree`: $2$
 	- `Leading Coefficient`: $17$
 
