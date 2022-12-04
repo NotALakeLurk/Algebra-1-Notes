@@ -7,7 +7,7 @@
 - `Prime Factors`: `factors` that are only prime
 - `Prime Factorization`: representation of a number as a product of `prime factors`
 
-- `Zero Product Property`: where $a$ and $b$ are real numbers: $ab=0 \implies a=0$ or $b=0$
+- `Zero Product Property`: where $a$ and $b$ are real numbers: $(ab=0) \implies (a=0)$ or $(b=0)$
 - `Roots`: the solution sets that make an equation true
 
 # Factoring
