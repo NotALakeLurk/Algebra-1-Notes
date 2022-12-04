@@ -31,5 +31,5 @@ Where $m$ is a set of `monomials`
 ### Degree Specific Types
 Where the `polynomial` is in `standard form` 
 - `Linear Polynomial`: $ax...$
-- `Quadratic Polynomial`: $a^2...$
+- `Quadratic Polynomial`: $ax^2...$
 - `Cubic Polynomial`: $ax^3...$
