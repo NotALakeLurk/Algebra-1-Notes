@@ -7,7 +7,7 @@
 - `Prime Factors`: `factors` that are only prime
 - `Prime Factorization`: representation of a number as a product of `prime factors`
 
-- `Zero Product Property`: where $a$ and $b$ are real numbers: $ab=0 \implies a=0$ or $b=0$
+- `Zero Product Property`: where $a$ and $b$ are real numbers: $(ab=0) \implies (a=0)$ or $(b=0)$
 - `Roots`: the solution sets that make an equation true
 
 # Factoring
@@ -23,10 +23,10 @@ $$
 	2x^2-4x
 $$
 
-1. $ 2x^2 = 2 \times x \times x \\ 4x = 2 \times 2 \times x $
-2. $ 2 \times x = 2x $
-3. $ x(2x)-2(2x) $
-4. $ 2x(x-2) $
+1. $2x^2 = 2 \times x \times x$<br>$4x = 2 \times 2 \times x$
+2. $2 \times x = 2x$
+3. $x(2x)-2(2x)$
+4. $2x(x-2)$
 
 ## By Grouping
 1. `Prime Factorize` each term
@@ -39,10 +39,10 @@ $$
 	7x^3-21x^2+5x-15
 $$
 
-1. $ 7x^3 = 7 \times x \times x \times x \\ 21x^2 = 7 \times 3 \times x \times x \\ 5x = 5 \times x \\ 15 = 5 \times 3 $
-2. $ 7x^3, 21x^2 = 7 \times x \times x \\ 5x, 15 = 5 $
-3. $ 7x^2(x-3) + 5(x-3) $
-4. $ (7x^2+5)(x-3) $
+1. $7x^3 = 7 \times x \times x \times x$<br>$21x^2 = 7 \times 3 \times x \times x$<br>$5x = 5 \times x$<br>$15 = 5 \times 3$
+2. $7x^3, 21x^2 = 7 \times x \times x$<br>$5x, 15 = 5$
+3. $7x^2(x-3) + 5(x-3)$
+4. $(7x^2+5)(x-3)$
 
 ## Solve Polynomial Equations by Factoring
 1. `Factor`

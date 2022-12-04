@@ -7,8 +7,7 @@
 - `Inequality`: a relationship where one expression is not equal to another
 
 # Inequalities
-- Multiplying/dividing by "$-$" across an inequality reverses the sign:
-	- $ -y>x-10 \\
-	  y<-x+10 $
-- "$\ge$" and "$\le$" create a solid line on the inequality's edge
-- "$>$" and "$<$" create a dotted line on the inequality's edge
+- Multiplying/dividing by $-$ across an inequality reverses the sign:
+	- $-y>x-10$<br>$y<-x+10$
+- $\ge$ and $\le$ create a solid line on the inequality's edge
+- $>$ and $<$ create a dotted line on the inequality's edge

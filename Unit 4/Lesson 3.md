@@ -6,4 +6,4 @@
 - `Common Difference`: the difference between each term in an `aritmetic sequence`
 
 # Notes
-- $n^{th}$ term of an `arithmatic sequence`: $ a_n = a_1 + d(n-1) $ where $d$ is the common difference
+- $n^{th}$ term of an `arithmatic sequence`: $a_n = a_1 + d(n-1)$ where $d$ is the common difference
