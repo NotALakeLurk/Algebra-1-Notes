@@ -11,9 +11,9 @@
 - Every quadratic function is a trasform of $f(x)=x^2$
 - $c$ `translates` the parabola vertically
 - $a$ `dilates` the parabola vertically
-	- $0<a<1$: compression
-	- $a>1$: stretch
+	- $0 < a < 1$: compression
+	- $a > 1$: stretch
 	- changing the sign of $a$ `reflects` the parabola
 - $b$ `dilates` the parabola horizontally
-	- $0<b<1$: stretch
-	- $b>1$: compression
+	- $0 < b < 1$: stretch
+	- $b > 1$: compression
