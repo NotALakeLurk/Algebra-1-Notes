@@ -11,6 +11,6 @@
 - Parent function: $f(x) = x^2$
 - Y-intercept: $c$
 - `Axis of symmetry` and `vertex` $_x$: $-\frac{b}{2a}$
-- $a<0$: opens down, range is $y<$ `maximum`; $a>0$: opens up, range is `minimum` $<y$
+- $a < 0$: opens down, range is $y <$ `maximum`; $a > 0$: opens up, range is `minimum` $< y$
 - `maximum`/`minimum`: $a(-\frac{b}{2a})^2 + b(-\frac{b}{2a}) + c$
-- domain: $-\infin < x < \infin$ (unless restricted)
+- domain: $-\infty < x < \infty$ (unless restricted)
