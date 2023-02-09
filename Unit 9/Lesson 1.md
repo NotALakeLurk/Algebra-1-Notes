@@ -1,5 +1,5 @@
 # Vocab
-- `Quadratic Function`: a functino in the form $f(x)=ax^2+bx+c$ where $a,b,c$ are real, and $a \ne 0$
+- `Quadratic Function`: a function in the form $f(x)=ax^2+bx+c$ where $a,b,c$ are real, and $a \ne 0$
 - `Parabola`: the "U" shaped graph of a `quadratic function`
 - `Axis of Symmetry` (Quadratic Function): a verticle line that divides a `parabola` into two halves that are indentical in size and shape, but reversed in direction
 - `Vertex`: The highest or lowest point on the graph of a `quadratic function`
